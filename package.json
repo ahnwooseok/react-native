@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "create-react-native-app": "^3.8.0",
+    "expo-cli": "^6.0.5"
+  }
+}
